@@ -3,7 +3,7 @@
   <samp>
     Hey :wave: !!!
     <br>I'm a MERN Stack Javascript Engineer having
-      <br><em>1 years</em> of experience working on the 
+      <br><em>2 years</em> of experience working on the 
     <br>web , servers and hybrid mobile apps :sparkles:<br><br>
     <img src="https://media.giphy.com/media/NYnvbOCBu85Xy/source.gif" width="240px" align="center">
   </samp>
