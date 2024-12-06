@@ -2,7 +2,7 @@
 <p align="center">
   <samp>
     Hey :wave: !!!
-    <br>I'm a MERN Stack Javascript Engineer having
+    <br>I'm a Javascript Engineer having
       <br><em>3 years</em> of experience working on the 
     <br>web , servers and hybrid mobile apps :sparkles:<br><br>
     <img src="https://media.giphy.com/media/NYnvbOCBu85Xy/source.gif" width="240px" align="center">
