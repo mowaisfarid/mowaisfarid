@@ -5,8 +5,8 @@
     <br>I'm a Javascript Engineer having
       <br><em>3 years</em> of experience working on the 
     <br> hybrid mobile apps, web and servers :sparkles:<br><br>
-   <!-- <img src="https://media.giphy.com/media/NYnvbOCBu85Xy/source.gif" width="240px" align="center"> -->
-    ![Owais's github stats](https://github-readme-stats.vercel.app/api?username=mowaisfarid&hide=issues&show_icons=true&theme=onedark)
+    <img src="https://media.giphy.com/media/NYnvbOCBu85Xy/source.gif" width="240px" align="center"> 
+   <!-- ![Owais's github stats](https://github-readme-stats.vercel.app/api?username=mowaisfarid&hide=issues&show_icons=true&theme=onedark) -->
   </samp>
 </p>
 
@@ -26,13 +26,7 @@
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/react.png" height="70" />
    </a>
 
-   <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/react-native.png" height="70" />
-   </a>
 
-   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/typescript.png" height="70" />
-   </a>
 
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
