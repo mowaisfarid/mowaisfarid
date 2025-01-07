@@ -5,7 +5,8 @@
     <br>I'm a Javascript Engineer having
       <br><em>3 years</em> of experience working on the 
     <br> hybrid mobile apps, web and servers :sparkles:<br><br>
-    <img src="https://media.giphy.com/media/NYnvbOCBu85Xy/source.gif" width="240px" align="center">
+   <!-- <img src="https://media.giphy.com/media/NYnvbOCBu85Xy/source.gif" width="240px" align="center"> -->
+    ![Owais's github stats](https://github-readme-stats.vercel.app/api?username=mowaisfarid&hide=issues&show_icons=true&theme=onedark)
   </samp>
 </p>
 
